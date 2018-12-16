@@ -1,3 +1,7 @@
-source/
-slackware64-14.2-install-dvd.iso
-slackbuilds-14.2-20181020.1.tar.gz
+/slackware64-14.2
+/source
+/slackware64-14.2-install-dvd.iso
+/slackbuilds-14.2-20181020.1.tar.gz
+/slackware64-14.2.cow2
+
+/tmp
